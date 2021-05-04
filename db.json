@@ -5,7 +5,7 @@
       "name": "Shoyu Ramen",
       "restaurant": "Nonono",
       "image": "./assets/ramen/shoyu.jpg",
-      "rating": 7,
+      "rating": "6",
       "comment": "Delish. Can't go wrong with a classic!"
     },
     {
@@ -13,8 +13,8 @@
       "name": "Naruto Ramen",
       "restaurant": "Naruto",
       "image": "./assets/ramen/naruto.jpg",
-      "rating": 10,
-      "comment": "My absolute fave!"
+      "rating": "3",
+      "comment": "fave!"
     },
     {
       "id": 3,
@@ -37,8 +37,16 @@
       "name": "Kojiro Red Ramen",
       "restaurant": "Ramen-Ya",
       "image": "./assets/ramen/kojiro.jpg",
-      "rating": 6,
-      "comment": "Perfect for a cold night."
+      "rating": "4",
+      "comment": "Perfect"
+    },
+    {
+      "name": "",
+      "restaurant": "",
+      "image": "",
+      "rating": "",
+      "comment": null,
+      "id": 7
     }
   ]
 }
